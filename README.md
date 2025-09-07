@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm Haresh!</h1>
 <h3 align="center">A passionate computer science student from Orlando, Florida</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, Machine Learning, Banking Technology, Software Engineering**
+- 🌱 I’m currently learning **Java, Software Engineering, Node.js, React, Python, Machine Learning**
 
 - 📫 How to reach me **realhareshpalli@gmail.com**
 
